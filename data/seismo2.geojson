@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "STAID": "ta.U15A", "STALOC": "North Rim", "TIFURL": "http:\/\/rev.seis.sc.edu\/stations\/?zip_or_station_code=u15a" }, "geometry": { "type": "Point", "coordinates": [ -112.206011198156219, 36.364376251948237 ] } }
+,
+{ "type": "Feature", "properties": { "STAID": "ta.w13a", "STALOC": "Hualapai Mountain Park", "TIFURL": "http:\/\/rev.seis.sc.edu\/stations\/?zip_or_station_code=w13a" }, "geometry": { "type": "Point", "coordinates": [ -113.810049646718539, 35.167075954207085 ] } }
+,
+{ "type": "Feature", "properties": { "STAID": "ta.x16a", "STALOC": "Lo Mia Camp", "TIFURL": "http:\/\/rev.seis.sc.edu\/stations\/?zip_or_station_code=x16a" }, "geometry": { "type": "Point", "coordinates": [ -111.520790425376589, 34.48663319104741 ] } }
+,
+{ "type": "Feature", "properties": { "STAID": "ta.x18a", "STALOC": "Snowflake", "TIFURL": "http:\/\/rev.seis.sc.edu\/stations\/?zip_or_station_code=x18a" }, "geometry": { "type": "Point", "coordinates": [ -110.025666607310598, 34.5979075931265 ] } }
+,
+{ "type": "Feature", "properties": { "STAID": "ta.y14a", "STALOC": "Wickenburg", "TIFURL": "http:\/\/rev.seis.sc.edu\/stations\/?zip_or_station_code=y14a" }, "geometry": { "type": "Point", "coordinates": [ -113.07222112197762, 34.002769869910011 ] } }
+,
+{ "type": "Feature", "properties": { "STAID": "ta.z14a", "STALOC": "Wintersburg", "TIFURL": "http:\/\/rev.seis.sc.edu\/stations\/?zip_or_station_code=z14a" }, "geometry": { "type": "Point", "coordinates": [ -113.030029971635173, 33.417484300717646 ] } }
+,
+{ "type": "Feature", "properties": { "STAID": "ta.113a", "STALOC": "Mohawk Valley", "TIFURL": "http:\/\/rev.seis.sc.edu\/stations\/?zip_or_station_code=113a" }, "geometry": { "type": "Point", "coordinates": [ -113.691889876322008, 32.8329891521064 ] } }
+,
+{ "type": "Feature", "properties": { "STAID": "ta.319a", "STALOC": "Douglas", "TIFURL": "http:\/\/rev.seis.sc.edu\/stations\/?zip_or_station_code=319a" }, "geometry": { "type": "Point", "coordinates": [ -109.21154683334106, 31.313527992494564 ] } }
+
+]
+}
